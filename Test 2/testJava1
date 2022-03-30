@@ -1,0 +1,15 @@
+import java.util.Scanenr;
+
+public class testJava1
+{
+     public static void main(String[] args)
+     {
+          Scanner bob = new Scanner(Systen.in);
+          System.out.println("Hello World!");
+          
+          ///all your code goes here
+          
+          
+          System.exit(0);
+      }
+ }
